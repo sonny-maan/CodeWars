@@ -18,6 +18,9 @@ it 'has a message for 3 likes' do
  names = ['Sonny', 'Joe Rogan', 'Seth Rogen']
   expect(likes(names)).to eq "Sonny, Joe Rogan and Seth Rogen like this"
 end
-
+it 'has a message over 3 likes' do
+ names = ['Sonny', 'Joe Rogan', 'Seth Rogen', 'Big Man Like Shaq']
+  expect(likes(names)).to eq "Sonny, Joe Rogan and 2 others like this"
+end
 
 end
