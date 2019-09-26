@@ -7,12 +7,16 @@ it 'has a message for no likes' do
   expect(likes(names)).to eq "no one likes this"
 end
 it 'has a message for 1 like' do
- names = ['Peter']
-  expect(likes(names)).to eq "Peter likes this"
+ names = ['Sonny']
+  expect(likes(names)).to eq "Sonny likes this"
 end
 it 'has a message for 2 likes' do
- names = ['Peter', 'James']
-  expect(likes(names)).to eq "Peter and James like this"
+ names = ['Sonny', 'Joe Rogan']
+  expect(likes(names)).to eq "Sonny and Joe Rogan like this"
+end
+it 'has a message for 3 likes' do
+ names = ['Sonny', 'Joe Rogan', 'Seth Rogen']
+  expect(likes(names)).to eq "Sonny, Joe Rogan and Seth Rogen like this"
 end
 
 
