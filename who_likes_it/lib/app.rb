@@ -1,8 +1,9 @@
 # frozen_string_literal: true
+
 def likes(names)
   case names.size
   when 0
-    "no one likes this"
+    'no one likes this'
   when 1
     "#{names[0]} likes this"
   when 2
