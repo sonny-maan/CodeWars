@@ -9,7 +9,7 @@ Link to my CodeWars profile [here](https://www.codewars.com/users/sonny-maan).
 ## List of Challenges
 
 ### Ruby:
-* [Who Likes This](https://github.com/sonny-maan/CodeWars/tree/master/who_likes_it)
+* [Who Likes It](https://github.com/sonny-maan/CodeWars/tree/master/who_likes_it)
 
 
 
