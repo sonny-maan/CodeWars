@@ -1,5 +1,6 @@
 
 # CodeWars
+This is the GitHub repository where I save copies of the katas I've completed on [codewars.com](https://www.codewars.com/).
 
 Link to my CodeWars profile [here](https://www.codewars.com/users/sonny-maan).  
 
