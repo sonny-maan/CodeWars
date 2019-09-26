@@ -1,4 +1,4 @@
-# Who Likes It -[![Profile badge](https://www.codewars.com/users/sonny-maan/badges/small)](https://www.codewars.com/users/sonny-maan)
+# Who Likes It - [![Profile badge](https://www.codewars.com/users/sonny-maan/badges/small)](https://www.codewars.com/users/sonny-maan)
 
 
 ## Instructions
