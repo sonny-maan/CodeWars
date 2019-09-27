@@ -8,7 +8,7 @@ Link to my CodeWars profile [here](https://www.codewars.com/users/sonny-maan).
 
 ### Ruby:
 * [Who Likes It](https://github.com/sonny-maan/CodeWars/tree/master/who_likes_it)
-* [Multiples Of 3 Or 5]()
+* [Multiples Of 3 or 5](https://github.com/sonny-maan/CodeWars/tree/master/multiples_of_3_or_5)
 
 
 
