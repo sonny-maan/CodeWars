@@ -7,6 +7,7 @@ You probably know the "like" system from Facebook and other pages. People can "l
 
 Implement a function ```likes :: [String] -> String``` , which must take in input array, containing the names of people who like an item. It must return the display text as shown in the examples:
 
+## Links
 Link to CodeWars kata [here](https://www.codewars.com/kata/5266876b8f4bf2da9b000362)
 
 ## License
