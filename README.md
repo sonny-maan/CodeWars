@@ -11,6 +11,10 @@ Link to my CodeWars profile [here](https://www.codewars.com/users/sonny-maan).
 * [Multiples Of 3 or 5](https://github.com/sonny-maan/CodeWars/tree/master/multiples_of_3_or_5)
 * [Build Tower](https://github.com/sonny-maan/CodeWars/tree/master/build_tower)
 
+### JavaScript:
+* [Bit Count](https://github.com/sonny-maan/CodeWars/tree/master/who_likes_it)
+
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
