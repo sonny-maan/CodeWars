@@ -12,7 +12,7 @@ Link to my CodeWars profile [here](https://www.codewars.com/users/sonny-maan).
 * [Build Tower](https://github.com/sonny-maan/CodeWars/tree/master/build_tower)
 
 ### JavaScript:
-* [Bit Count](https://github.com/sonny-maan/CodeWars/tree/master/who_likes_it)
+* [Bit Count](https://github.com/sonny-maan/CodeWars/tree/master/bitCounting)
 
 
 ## License
