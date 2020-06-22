@@ -8,6 +8,7 @@ Link to my profile [here](https://www.codewars.com/users/sonny-maan).
 
 ### Ruby:
 * [Who Likes It](https://github.com/sonny-maan/CodeWars/tree/master/who_likes_it)
+* [Square Every Digit](https://github.com/sonny-maan/CodeWars/tree/master/square_every_digit)
 * [Multiples Of 3 or 5](https://github.com/sonny-maan/CodeWars/tree/master/multiples_of_3_or_5)
 * [Build Tower](https://github.com/sonny-maan/CodeWars/tree/master/build_tower)
 
